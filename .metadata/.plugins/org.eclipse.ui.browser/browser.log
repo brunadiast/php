@@ -1,0 +1,866 @@
+
+ago 29, 2018 07:55:59.72 NEW SESSION
+ago 29, 2018 07:55:59.72 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:56:00.14 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:56:00.99 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:56:01.70 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:56:01.84 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:56:02.75 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:56:04.00 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:56:08.94 [Parent 13644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:56:08.94 [Child 10916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:56:10.40 [Child 10916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/[Parent 13644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:56:10.40 [Child 14192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:56:12.70 [Child 14192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c[Parent 13644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:56:12.70 [Child 14172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+ago 29, 2018 07:57:41.08 NEW SESSION
+ago 29, 2018 07:57:41.08 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:57:41.24 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:57:41.57 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:57:41.72 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:57:41.72 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:57:42.07 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:57:43.46 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:58:22.83 [Parent 13968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:58:22.85 [Child 8344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:58:24.01 [Child 8344, Chrome_ChildThread] WARNING: pipe error: 109[Parent 13968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:58:24.01 [Child 13624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:58:25.61 [Child 13624, Chrome_ChildThread] WARNING: pipe error: 1[Child 14236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:58:25.66 [Parent 13968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:58:25.66 [Parent 13968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 07:58:26.40 
+ago 29, 2018 07:58:26.40 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 07:58:26.40 
+ago 29, 2018 07:58:36.29 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:58:36.46 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:58:36.75 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:58:36.86 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:58:36.91 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:58:37.22 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 07:58:37.75 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:00:48.63 [Parent 13800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:00:48.63 [Child 8108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:00:50.49 [Child 8108, Chrome_ChildThread] WARNING: pipe erro[Parent 13800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:00:50.50 [Child 7156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:00:50.50 [Child 7156, Chrome_ChildThread] WARNING: pipe[Child 7788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:00:50.50 [Child 7788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:00:50.50 [Parent 13800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:00:51.08 
+ago 29, 2018 08:00:51.08 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 08:00:51.08 
+ago 29, 2018 08:01:02.39 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:01:02.55 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:01:02.87 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:01:02.95 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:01:03.01 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:01:03.33 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:01:04.76 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:02:13.73 [Parent 7224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:02:13.73 [Parent 7224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:02:13.73 [Parent 7224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:02:13.73 [Child 12792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:02:13.73 [Child 12792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:02:13.73 [Child 11460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:02:13.74 [Child 11460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[Parent 7224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:02:14.38 [GPU 14256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:02:14.39 
+ago 29, 2018 08:02:14.39 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 08:02:14.39 
+ago 29, 2018 08:48:09.24 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:48:09.40 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:48:09.72 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:48:09.99 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:48:10.75 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:49:31.08 [Child 1388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:49:31.10 [Parent 11056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:49:31.71 [[GPU 2376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:49:31.73 
+ago 29, 2018 08:49:31.73 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 08:49:31.73 
+ago 29, 2018 08:49:36.06 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:49:36.23 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:49:36.52 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:49:36.82 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:49:37.53 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:49:57.65 [Parent 13772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:49:57.65 [Child 5704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:49:57.66 [Parent 13772, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:49:58.49 [GPU 10276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:49:58.57 
+ago 29, 2018 08:49:58.57 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 08:49:58.57 
+ago 29, 2018 08:50:02.15 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:50:02.31 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:50:02.58 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:50:02.91 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:50:03.59 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:59:37.42 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:59:37.49 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 08:59:47.46 [Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 08:59:47.46 [Child 12632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:00:13.23 [Child 12632, Chrome_ChildThread] WARNING: Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:00:13.33 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:00:13.36 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:00:21.41 [Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:00:21.41 [Child 13684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:00:21.41 [Child 13684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:00:23.11 [Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:00:23.11 [Child 1120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:00:24.53 [Child 1120, Chrome_ChildThread] WARNING: pipe error[Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:00:24.53 [Child 8920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:00:24.53 [Child 8920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:03:12.49 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:03:13.72 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:03:37.30 [Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:04:23.53 [Child 1Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:05:31.94 [Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:05:31.94 [Child 8008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:05:59.02 [Child 8008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bUnable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:10:03.95 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:11:06.46 [Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:11:06.46 [Child 412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:06.49 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:14:10.73 [Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:10.73 [Child 11388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:15.60 [Child 11388, Chrome_ChildThread] WARNING:[Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:17.51 [Child 12020, Chrome_ChildThread] WARNING: pipe[Child 3572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:17.52 [Child 3572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:17.52 [Child 8880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:17.53 [Child 8880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:17.53 [Parent 10040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:18.10 [GPU 10856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:18.12 
+ago 29, 2018 09:14:18.12 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:14:18.12 
+ago 29, 2018 09:14:30.98 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:14:31.14 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:14:31.44 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:14:31.78 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:14:32.40 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:14:37.36 [Child 5372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:37.39 [Child 5372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:38.02 [GPU 11456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:14:38.04 
+ago 29, 2018 09:14:38.04 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:14:38.04 
+ago 29, 2018 09:16:53.13 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:16:53.31 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:16:53.58 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:16:53.93 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:16:54.56 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:17:10.28 [Child 14332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:17:10.28 [Child 14332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:17:10.28 [Child 416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:17:10.29 [Child 416, Chrome_ChildThread] WARNING: pipe error: 109: f[Parent 12464, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:17:10.30 [Child 1160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:17:10.92 [Child 1160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 34
+ago 29, 2018 09:17:10.92 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:17:10.92 
+ago 29, 2018 09:17:43.60 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:17:43.77 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:17:44.05 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:17:44.36 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:17:44.74 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:17:44.98 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:18:48.35 [Parent 7852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:18:48.35 [Child 8712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:24:33.09 [Child 8712, Chrome_ChildThread] WARNINGUnable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:24:41.93 [Parent 7852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:24:41.93 [Child 11240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:24:41.93 [Child 11240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:24:44.00 [Child 14012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:24:44.04 [Child 4352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:24:44.04 [Parent 7852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:24:44.48 [GPU 13808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build
+ago 29, 2018 09:24:44.48 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:24:44.48 
+ago 29, 2018 09:28:57.88 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:28:58.04 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:28:58.34 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:28:58.67 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:28:59.25 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:29:08.80 [Child 7452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:29:08.80 [Child 7452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:29:08.81 [Parent 6124, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:29:09.27 [Child [GPU 12792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:29:09.29 
+ago 29, 2018 09:29:09.29 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:29:09.29 
+ago 29, 2018 09:30:12.37 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:30:12.57 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:30:12.81 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:30:13.12 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:30:13.78 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:30:24.91 [Child 5560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:30:24.97 [Child 5560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:30:24.97 [Parent 9556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:30:25.42 [GPU 832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:30:25.44 
+ago 29, 2018 09:30:25.44 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:30:25.44 
+ago 29, 2018 09:32:08.24 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:32:08.42 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:32:08.70 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:32:09.05 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:32:09.66 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:32:21.85 [Child 12824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:32:21.85 [Parent 12028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:32:22.45 
+ago 29, 2018 09:32:22.45 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:32:22.45 
+ago 29, 2018 09:33:13.17 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:13.32 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:13.59 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:14.00 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:14.26 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:14.52 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:17.39 [Parent 6800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:17.43 [Parent 6800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:17.43 [Child 14092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:17.43 [Child 14092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/c[Parent 6800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:17.43 [Parent 6800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:17.43 
+ago 29, 2018 09:33:17.43 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+ago 29, 2018 09:33:17.43 
+ago 29, 2018 09:33:17.43 
+ago 29, 2018 09:33:17.43 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+ago 29, 2018 09:33:17.43 
+ago 29, 2018 09:33:18.17 [GPU 14064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:18.19 
+ago 29, 2018 09:33:18.19 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:33:18.19 
+ago 29, 2018 09:33:22.46 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:22.61 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:22.90 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:23.21 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:23.56 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:23.83 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:33:27.41 _create_dc_and_bitmap: A operação foi concluída com êxito.
+ago 29, 2018 09:33:27.41 
+ago 29, 2018 09:33:27.41 _create_dc_and_bitmap: Identificador inválido.
+ago 29, 2018 09:33:27.41 
+ago 29, 2018 09:33:27.42 _create_dc_and_bitmap: Identificador inválido.
+ago 29, 2018 09:33:27.42 
+ago 29, 2018 09:33:43.13 [Child 14204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:43.13 [Child 7324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:43.13 [Child 7324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:43.14 [Parent 9764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:43.14 [Parent 9764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:43.14 [Child 10892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/
+ago 29, 2018 09:33:43.14 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16008C,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+ago 29, 2018 09:33:43.14 
+ago 29, 2018 09:33:43.14 ipc_channel_win.cc, line 
+ago 29, 2018 09:33:43.14 ###!!! [Parent][MessageChannel] Error: (msgtype=0x16007F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+ago 29, 2018 09:33:43.14 
+ago 29, 2018 09:33:43.14 346
+ago 29, 2018 09:33:43.80 [GPU 3228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:33:43.82 
+ago 29, 2018 09:33:43.82 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:33:43.82 
+ago 29, 2018 09:34:53.68 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:34:53.85 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:34:54.14 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:34:54.46 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:34:55.06 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:35:08.05 [Child 832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:35:08.08 [Child 832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:35:08.08 [Parent 7492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:35:08.70 [GPU 8520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:35:08.72 
+ago 29, 2018 09:35:08.72 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:35:08.72 
+ago 29, 2018 09:35:41.30 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:35:41.45 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:35:41.76 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:35:42.12 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:35:42.69 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:35:52.53 [Parent 8384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:35:52.54 [Child 6664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:35:52.54 [Child 12440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:35:52.54 [Parent 8384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:35:53.14 [GPU 12480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:35:53.17 
+ago 29, 2018 09:35:53.17 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:35:53.17 
+ago 29, 2018 09:36:09.14 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:36:09.29 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:36:09.59 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:36:09.92 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:36:10.54 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:36:23.01 [Parent 7612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:36:23.02 [Child 12392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:36:23.02 [Child 12392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:36:23.02 [Child 284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:36:23.02 [Parent 7612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:36:23.60 [GPU 10552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:36:23.62 
+ago 29, 2018 09:36:23.62 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:36:23.62 
+ago 29, 2018 09:38:14.19 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:38:14.36 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:38:14.65 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:38:15.01 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:38:15.62 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:38:18.51 [Parent 13928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:38:18.51 [Child 8088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:38:18.53 [Child 80[Parent 13928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:38:19.24 [GPU 12812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:38:19.26 
+ago 29, 2018 09:38:19.26 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:38:19.26 
+ago 29, 2018 09:38:36.65 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:38:36.85 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:38:37.12 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:38:37.44 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:38:38.09 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:38:41.94 [Child 7384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:38:41.95 [Child 7384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:38:41.95 [Parent 6036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:38:42.68 
+ago 29, 2018 09:38:42.68 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:38:42.68 
+ago 29, 2018 09:39:39.81 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:39:39.97 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:39:40.25 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:39:40.60 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:39:41.23 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:39:46.65 [Child 12056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:39:46.69 [Parent 508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:39:47.44 
+ago 29, 2018 09:39:47.44 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:39:47.44 
+ago 29, 2018 09:40:04.18 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:04.35 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:04.64 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:04.95 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:05.56 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:11.67 [Parent 13952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:40:11.69 [Parent 13952, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:40:12.50 
+ago 29, 2018 09:40:12.50 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:40:12.50 
+ago 29, 2018 09:40:31.30 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:31.46 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:31.74 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:32.07 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:32.67 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:45.57 [Child 1948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:40:45.63 [Child 1948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:40:45.63 [Child 8124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:40:45.63 [Child 8124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:40:45.63 [Parent 12028, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 188
+ago 29, 2018 09:40:45.63 [Parent 12028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:40:45.64 [Child 9220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:40:45.64 [Child 9220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:40:46.40 
+ago 29, 2018 09:40:46.40 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:40:46.40 
+ago 29, 2018 09:40:57.11 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:57.32 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:57.55 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:57.89 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:40:58.47 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:07.99 [Child 14132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:41:07.99 [Child 14132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:41:07.99 [Parent 14268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:41:08.87 
+ago 29, 2018 09:41:08.87 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:41:08.87 
+ago 29, 2018 09:41:18.17 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:18.33 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:18.63 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:18.97 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:19.55 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:21.68 [Parent 13880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:41:21.70 [Parent 13880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:41:22.46 [GPU 8296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:41:22.48 
+ago 29, 2018 09:41:22.48 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:41:22.48 
+ago 29, 2018 09:41:26.68 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:26.84 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:27.13 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:27.42 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:28.05 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:38.40 [Parent 636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:41:38.47 [Child 1572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:41:39.06 [Child 1572, Chrome_ChildThread] WARNING: pipe error: [GPU 4964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:41:39.09 
+ago 29, 2018 09:41:39.09 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:41:39.09 
+ago 29, 2018 09:41:49.85 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:50.01 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:50.31 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:50.65 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:41:51.24 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:42:04.68 [GPU 3576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:42:04.71 
+ago 29, 2018 09:42:04.71 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:42:04.71 
+ago 29, 2018 09:42:09.18 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:42:09.34 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:42:09.68 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:42:09.99 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:42:10.61 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:42:17.48 [Parent 10372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:42:17.49 [Child 10648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:42:17.49 [Child 10648, Chrome_ChildThread] WARNIN[Parent 10372, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:42:17.49 [Child 10476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:42:18.27 [GPU 10276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:42:18.30 
+ago 29, 2018 09:42:18.30 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:42:18.30 
+ago 29, 2018 09:42:22.25 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:42:22.43 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:42:22.71 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:42:23.05 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:42:23.64 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:45:20.49 [Child 12896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:45:20.49 [Child 12896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:45:20.49 [Parent 13492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:45:21.03 [GPU 9196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:45:21.05 
+ago 29, 2018 09:45:21.05 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:45:21.05 
+ago 29, 2018 09:45:32.25 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:45:32.41 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:45:32.71 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:45:33.03 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:45:33.65 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:46:22.34 [Parent 6184, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:46:22.35 [Child 12496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:46:22.35 [Child 12496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:46:23.13 [GPU 6800, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:46:23.16 
+ago 29, 2018 09:46:23.16 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:46:23.16 
+ago 29, 2018 09:46:26.41 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:46:26.57 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:46:26.87 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:46:27.17 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:46:27.78 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:46:30.31 [Parent 13976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:46:30.31 [Parent 13976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:46:30.32 [Child 14112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:46:30.33 [Parent 13976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:46:31.13 [GPU 6716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:46:31.15 
+ago 29, 2018 09:46:31.15 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:46:31.16 
+ago 29, 2018 09:48:10.24 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:48:10.41 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:48:10.70 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:48:11.04 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:48:11.60 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 09:48:40.24 [Parent 11648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:48:40.87 [GPU 8348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ago 29, 2018 09:48:40.89 
+ago 29, 2018 09:48:40.89 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+ago 29, 2018 09:48:40.90 
+ago 29, 2018 10:30:27.92 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+ago 29, 2018 10:30:28.08 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+
+set 14, 2018 08:06:00.59 NEW SESSION
+set 14, 2018 08:06:00.59 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+set 14, 2018 08:06:01.06 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+set 14, 2018 08:06:01.57 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+set 14, 2018 08:06:01.68 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+set 14, 2018 08:06:01.74 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+set 14, 2018 08:06:02.65 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+set 14, 2018 08:06:03.43 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+set 14, 2018 08:06:06.23 [Child 11480, Chrom[Parent 8840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:06:16.23 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+set 14, 2018 08:06:16.27 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+set 14, 2018 08:06:34.63 Unable to read VR Path Registry from C:\Users\Paulo cesar\AppData\Local\openvr\openvrpaths.vrpath
+set 14, 2018 08:38:29.90 [Parent 8840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:29.90 [Child 9708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:29.90 [Child 9708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:31.87 [Parent 8840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:31.87 [Child 1216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:31.87 [Child 1216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:43.69 [Parent 8840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:43.71 [Parent 8840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:43.71 [Parent 8840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:43.71 [Child 1712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:43.71 [Child 1712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:43.71 [Child 748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:43.71 [Child 748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:38:44.52 [GPU 1260, Chrome_ChildThread] WARNING: pipe error: 109: file 
+set 14, 2018 08:38:44.52 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 14, 2018 08:38:44.52 
+set 14, 2018 08:43:56.27 [Parent 1164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:43:56.28 [Child 7236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:43:57.22 [Child 7236, Chrome_ChildThrea[Parent 1164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:43:57.22 [Child 4772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common[Child 1964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3/ipc_channel_win.cc, line 34646
+set 14, 2018 08:43:57.22 [Child 1964, Chrome_ChildThread] WARNING:
+set 14, 2018 08:43:57.27 [Child 4772, Ch[Parent 1164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 08:43:58.05 
+set 14, 2018 08:43:58.05 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 14, 2018 08:43:58.05 
+
+set 14, 2018 09:40:34.39 NEW SESSION
+set 14, 2018 09:40:34.39 [Parent 2112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:40:34.47 [Child 5340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:40:37.93 [Child 5340, Chrome_Ch[Parent 2112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:40:37.95 [Child 5364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:40:37.97 [Child 5364, Chrom[Parent 2112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:40:37.97 [Child 9480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:40:37.97 [Child 9480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:40:38.92 
+set 14, 2018 09:40:38.92 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 14, 2018 09:40:38.92 
+set 14, 2018 09:40:38.92 [Parent 2112, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+set 14, 2018 09:45:36.00 [Parent 11652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:45:36.04 [Parent 11652, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:45:36.06 [Child 11224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:45:36.67 [Child 11224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc
+set 14, 2018 09:45:36.67 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 14, 2018 09:45:36.67 
+set 14, 2018 09:46:46.30 [Parent 13288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:46:47.52 [Child 7652, C[Parent 13288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:46:47.57 [Parent 13288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 14, 2018 09:46:48.28 
+set 14, 2018 09:46:48.28 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 14, 2018 09:46:48.28 
+
+set 21, 2018 08:01:22.50 NEW SESSION
+set 21, 2018 08:01:22.50 [Parent 2932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:01:22.61 [Parent 2932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:01:22.61 [Parent 2932, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:01:22.61 [Child 10588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:01:22.61 [Child 10[Ch588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:01:22.61 ild 10120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:01:22.61 [Child 10120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src
+set 21, 2018 08:01:22.61 ###!!! [Parent][MessageChannel] Error: (msgtype=0x17008D,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+set 21, 2018 08:01:22.61 
+set 21, 2018 08:01:22.61 
+set 21, 2018 08:01:22.61 ###!!! [Parent][MessageChannel] Error: (msgtype=0x170080,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+set 21, 2018 08:01:22.61 
+set 21, 2018 08:01:23.19 
+set 21, 2018 08:01:23.19 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:01:23.19 
+set 21, 2018 08:30:08.06 [Parent 13976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:08.06 [Child 4160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:11.03 [Child 4160, Chrome_Ch[Parent 13976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:11.05 [Parent 13976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:11.05 [Child 5288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:11.05 [Child 5288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:11.05 [Child 11560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:11.12 [Parent 13976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:11.67 
+set 21, 2018 08:30:11.67 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:30:11.67 
+set 21, 2018 08:30:48.89 [Parent 13924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:48.92 [Child 13944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:48.92 [Child 13944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo[Parent 13924, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:48.92 [Child 13960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:30:49.72 
+set 21, 2018 08:30:49.72 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:30:49.72 
+set 21, 2018 08:33:05.38 [Parent 7780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:33:05.39 [Child 4540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:33:07.08 [Child 4540, Chrome_ChildThread] WA[Child 11596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:33:07.08 [Child 11596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:33:07.08 [Parent 7780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:33:07.85 
+set 21, 2018 08:33:07.85 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:33:07.85 
+set 21, 2018 08:33:32.15 [Parent 4160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:33:32.15 [Parent 4160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:33:32.16 [Parent 4160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:33:32.16 [Child 12428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:33:32.16 [Child 12428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:33:33.04 
+set 21, 2018 08:33:33.04 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:33:33.04 
+set 21, 2018 08:34:34.90 [Parent 2324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:34:34.91 [Parent 2324, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:34:35.68 [GPU 9568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:34:35.71 
+set 21, 2018 08:34:35.71 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:34:35.71 
+set 21, 2018 08:37:38.67 [Parent 12980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:37:38.67 [Parent 12980, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:37:38.68 [Child 12212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:37:38.68 [Child 12540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:37:38.68 [Child 12540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:37:39.47 
+set 21, 2018 08:37:39.47 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:37:39.47 
+set 21, 2018 08:37:52.07 [Child 6664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:37:52.07 [Child 1708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:37:52.07 [Child 1708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:37:52.09 [Parent 1376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:37:52.84 [GPU 8004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_
+set 21, 2018 08:37:52.84 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:37:52.86 
+set 21, 2018 08:38:39.99 [Parent 2832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:38:40.00 [Parent 2832, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:38:40.72 [GPU 10528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:38:40.75 
+set 21, 2018 08:38:40.77 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:38:40.77 
+set 21, 2018 08:40:06.07 [Parent 8568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:40:06.11 [Parent 8568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:40:06.11 [Parent 8568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:40:06.88 
+set 21, 2018 08:40:06.88 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:40:06.88 
+set 21, 2018 08:40:37.51 [Parent 12104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:40:37.51 [Child 7456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:40:37.54 [Child 7456, Chrome_Chil[Parent 12104, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 21, 2018 08:40:38.58 
+set 21, 2018 08:40:38.58 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 21, 2018 08:40:38.58 
+
+set 28, 2018 09:36:14.97 NEW SESSION
+set 28, 2018 09:36:14.97 [Parent 2596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 28, 2018 09:36:14.97 [Child 11348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 28, 2018 09:36:14.98 [Child 11348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 28, 2018 09:36:21.64 [Child 13160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 28, 2018 09:36:26.85 [Child 13160, Chrome_ChildThr[GPU 10928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+set 28, 2018 09:36:26.90 
+set 28, 2018 09:36:26.90 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+set 28, 2018 09:36:26.90 
+
+out 05, 2018 08:59:35.64 NEW SESSION
+out 05, 2018 08:59:35.64 [Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 08:59:35.72 [Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:29:13.79 [Child 11188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/i[Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:29:13.79 [Child 208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:29:14.22 [Child 208, Chrome_ChildThread] WARNING: [Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:30:54.03 [Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:30:54.44 [Child 12592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:34:56.74 [Child 12592, Chrome_Child[Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:34:56.74 [Child 3108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:34:58.94 [Child 3108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, lin[Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:35:40.72 [Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:41:13.11 [Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:41:13.11 [Child 15176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:41:14.39 [Child 15176, Chrome_ChildThrea[Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:41:24.27 [Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 09:41:24.28 [Child 7628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:30:23.86 [Child 7628, Chrome_ChildThread] WARNING: pipe error: 109: file z[Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:30:25.96 [Child 4456, Chrome_ChildT[Child 1044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:30:25.96 [Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:30:25.96 [Child 13932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:30:25.96 [Child 13932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:30:26.08 [Parent 11460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:30:26.09 [Child 14256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:30:26.57 [
+out 05, 2018 10:30:26.57 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 05, 2018 10:30:26.57 
+out 05, 2018 10:31:11.08 [Parent 6404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:31:11.10 [Parent 6404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:31:11.11 [Child 11848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:31:11.11 [Child 11848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:31:11.71 [GPU 14152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:31:11.76 
+out 05, 2018 10:31:11.76 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 05, 2018 10:31:11.76 
+out 05, 2018 10:31:31.30 [Parent 352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:31:32.29 [GPU 8168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s
+out 05, 2018 10:31:32.29 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 05, 2018 10:31:32.30 
+out 05, 2018 10:31:54.72 [Parent 6080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:31:55.57 
+out 05, 2018 10:31:55.57 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 05, 2018 10:31:55.57 
+out 05, 2018 10:34:18.71 [Parent 13648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:34:19.52 
+out 05, 2018 10:34:19.52 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 05, 2018 10:34:19.52 
+out 05, 2018 10:34:39.36 [Parent 5320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:34:39.36 [Parent 5320, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:34:39.38 [Child 14228, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:34:40.27 
+out 05, 2018 10:34:40.27 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 05, 2018 10:34:40.27 
+out 05, 2018 10:35:57.83 [Child 936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:35:57.85 [Parent 2036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:35:58.66 [GPU 11920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:35:58.69 
+out 05, 2018 10:35:58.69 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 05, 2018 10:35:58.69 
+out 05, 2018 10:44:29.43 [Child 9456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:44:29.44 [Child 9456, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/[Parent 14888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 05, 2018 10:44:29.98 [GPU 11460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_chann
+out 05, 2018 10:44:29.98 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 05, 2018 10:44:29.98 
+
+out 19, 2018 08:16:31.46 NEW SESSION
+out 19, 2018 08:16:31.46 [Parent 5416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:17:24.91 [Parent 5416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:17:24.93 [Parent 5416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:17:24.96 [Child 4528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:17:25.56 [Child 4528, Chrome_ChildThread] WA
+out 19, 2018 08:17:25.56 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 19, 2018 08:17:25.57 
+out 19, 2018 08:52:26.45 [Parent 8580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:52:26.45 [Child 12280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:52:26.45 [Child 12280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:53:29.09 [Parent 8580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:53:29.87 [Child 7572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:53:29.87 [Child 7572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:53:29.87 [Child 14532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:53:29.88 [Child 14532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:53:30.57 [GPU 11996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 08:53:30.60 
+out 19, 2018 08:53:30.60 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 19, 2018 08:53:30.60 
+out 19, 2018 09:03:52.16 [Parent 156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:03:52.22 [Parent 156, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:03:52.22 [Child 10812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:03:52.22 [Child 10812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc[Child 10216, , Chlinerome 3_Chi46ldThread
+out 19, 2018 09:03:52.22 ] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+out 19, 2018 09:15:18.56 NEW SESSION
+out 19, 2018 09:15:18.56 [Parent 8008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:15:18.62 [Parent 8008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:15:18.62 [Child 15696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:15:18.62 [Child 15696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:15:19.72 
+out 19, 2018 09:15:19.72 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 19, 2018 09:15:19.72 
+out 19, 2018 09:17:25.23 [Child 15200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:17:25.23 [Child 15200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:17:25.87 [GPU 8788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:17:25.89 
+out 19, 2018 09:17:25.90 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 19, 2018 09:17:25.90 
+out 19, 2018 09:18:30.69 [Child 16124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:18:31.46 [GPU 9436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:18:31.49 
+out 19, 2018 09:18:31.49 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 19, 2018 09:18:31.49 
+out 19, 2018 09:19:25.17 [Parent 11296, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 09:19:26.00 
+out 19, 2018 09:19:26.00 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 19, 2018 09:19:26.00 
+out 19, 2018 09:42:12.20 [Parent 1556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:07:01.88 [Parent 1556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:07:06.11 [Parent 1556, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:07:08.11 [Child 7820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chr[Child 15404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:07:08.11 [Child 15404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:07:08.63 [Child 13308, Chrome_ChildThread] WARNING: pip[GPU 12172, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:07:08.66 
+out 19, 2018 10:07:08.66 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 19, 2018 10:07:08.66 
+out 19, 2018 10:12:39.19 [Parent 10072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:12:39.19 [Child 12932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:26:10.72 [Child 12932, Chrome_ChildThread] WAR[Parent 10072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:30:06.00 [Parent 10072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:30:06.00 [Child 12396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:30:13.70 [Child 12396, Chrome_ChildThread] WARNING: pipe errorIPDL protocol error: Handler returned error code!
+out 19, 2018 10:30:13.70 
+out 19, 2018 10:30:13.70 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:30:13.70 
+out 19, 2018 10:30:53.64 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:30:53.64 
+out 19, 2018 10:30:53.64 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:30:53.64 
+out 19, 2018 10:31:13.01 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:31:13.01 
+out 19, 2018 10:31:13.01 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:31:13.01 
+out 19, 2018 10:34:27.45 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:34:27.45 
+out 19, 2018 10:34:27.45 
+out 19, 2018 10:34:46.04 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:34:46.04 
+out 19, 2018 10:34:46.04 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:34:46.04 
+out 19, 2018 10:34:59.94 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:34:59.94 
+out 19, 2018 10:34:59.94 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:34:59.94 
+out 19, 2018 10:35:13.42 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:35:13.42 
+out 19, 2018 10:35:13.42 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:35:13.42 
+out 19, 2018 10:35:33.20 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:35:33.20 
+out 19, 2018 10:35:33.20 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:35:33.20 
+out 19, 2018 10:35:55.75 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:35:55.75 
+out 19, 2018 10:35:55.75 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:35:55.75 
+out 19, 2018 10:36:13.06 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:36:13.06 
+out 19, 2018 10:36:13.06 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:36:13.06 
+out 19, 2018 10:36:27.83 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:36:27.83 
+out 19, 2018 10:36:27.83 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:36:27.83 
+out 19, 2018 10:37:51.63 [Parent 10072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:37:51.64 [Child 10212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:37:54.16 [Child 10212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chr[Parent 10072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:37:54.16 [Child 16120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:41:19.81 [Child 16120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/IPDL protocol error: Handler returned error code!
+out 19, 2018 10:41:19.81 
+out 19, 2018 10:41:19.81 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:44:02.64 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:44:02.64 
+out 19, 2018 10:44:02.65 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:44:02.65 
+out 19, 2018 10:44:24.00 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:44:24.00 
+out 19, 2018 10:44:24.00 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:44:24.00 
+out 19, 2018 10:44:46.39 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:44:46.39 
+out 19, 2018 10:44:46.39 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:44:46.39 
+out 19, 2018 10:44:55.61 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:44:55.61 
+out 19, 2018 10:44:55.61 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:44:55.61 
+out 19, 2018 10:45:04.41 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:45:04.41 
+out 19, 2018 10:45:04.41 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:45:04.41 
+out 19, 2018 10:45:13.88 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:45:13.88 
+out 19, 2018 10:45:13.88 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:45:13.88 
+out 19, 2018 10:45:19.49 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:45:19.49 
+out 19, 2018 10:45:19.49 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:45:19.49 
+out 19, 2018 10:45:25.49 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:45:25.49 
+out 19, 2018 10:45:25.49 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:45:25.49 
+out 19, 2018 10:45:35.41 IPDL protocol error: Handler returned error code!
+out 19, 2018 10:45:35.41 
+out 19, 2018 10:45:35.41 ###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+out 19, 2018 10:45:35.41 
+out 19, 2018 10:51:56.32 [Child 200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:51:56.34 [Child 15108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:51:56.34 [Child 76, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:51:56.34 [Child 76, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/[Child 6508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:51:56.34 [Child 6508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:51:56.92 [GPU 12044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 19, 2018 10:51:56.95 
+out 19, 2018 10:51:56.95 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 19, 2018 10:51:56.95 
+
+out 26, 2018 09:45:04.04 NEW SESSION
+out 26, 2018 09:45:04.04 [Child 1372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:50:12.56 [Child 1372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ip[Parent 7100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:50:12.56 [Child 10380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:51:19.22 [Child 10380, Chrome_ChildThread] WAR[Parent 7100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:53:35.53 [Parent 7100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:53:35.53 [Child 8156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:55:17.86 [Child 8156, Chrome_ChildThread] W[Parent 7100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:55:26.97 [Parent 7100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:55:26.97 [Child 13340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:55:28.30 [Child 13340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium[Child 5568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:55:28.32 [Child 5568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+out 26, 2018 09:55:29.11 
+out 26, 2018 09:55:29.13 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+out 26, 2018 09:55:29.13 
+out 26, 2018 10:12:03.08 [Parent 13604, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346

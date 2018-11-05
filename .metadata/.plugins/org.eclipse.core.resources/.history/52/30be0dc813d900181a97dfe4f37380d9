@@ -1,0 +1,16 @@
+<html>
+<head>
+	<title>consulta de cliente</title>
+</head>
+<body>
+<?php 
+	include "conexao.php";
+	$buscar = $_POST['Buscar'];
+	//$sql = mysql_query("select * from dadosClientes where cpf like ''")
+
+
+?>
+
+</body>
+
+</html>

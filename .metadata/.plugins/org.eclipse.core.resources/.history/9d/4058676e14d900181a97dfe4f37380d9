@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title>consulta de cliente</title>
+</head>
+<body>
+<?php 
+	include "conexao.php";
+	$buscar = $_POST['Buscar'];
+	//$sql = mysql_query("select * from dadosClientes where cpf like '%".$buscar."%'");
+	$sql= mysql_query("select*from dadoCliente where cpf like".$buscar);
+	$row = mysql_num_rows($sql);
+	if($row > 0)
+	{
+		while($linha=mysql_fetch_array($sql))
+	}
+
+
+?>
+
+</body>
+
+</html>
